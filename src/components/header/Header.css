@@ -1,0 +1,32 @@
+.header_content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding: 30px;
+  color: whitesmoke;
+  background-color: rgb(212, 175, 8);
+}
+.header_content>img{
+  width: 80px;
+  border-radius: 50%;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.header_content>img:hover{
+  transform: scale(1.04);
+  cursor: pointer;
+}
+.header_content>h1{
+  text-align: center;
+  width: 70%;
+  font-family: var(--font-family)
+}
+@media (max-width:480px) {
+  .header_content>h1{
+    color: white;
+    font-size: medium;
+    text-transform: uppercase;
+  }
+}
