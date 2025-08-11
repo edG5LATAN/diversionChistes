@@ -1,12 +1,11 @@
-# React + Vite
+## Proyect of Joke Chuck Norris v1.0.1
+this is the new version about the page of joke of Chuck Norris create with Vite and new version of NodeJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+For this proyect was created with HTML, CSS, JS for laugh much
 
-Currently, two official plugins are available:
+![7a2e422bb148beee6c871b32e2f2271c](https://i.pinimg.com/736x/7d/4d/4b/7d4d4b4e631debc9a1546c6cb07c2e31.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## for see the proyect  
+- [CHUCK NORRIS](https://diversion-chistes.vercel.app/)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
